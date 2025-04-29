@@ -49,3 +49,6 @@ payload:
   #################### 海康威视
   - DOMAIN-SUFFIX,hikvision.com
   - DOMAIN-SUFFIX,hikvpn.com
+
+  #################### 自建域名
+  - DOMAIN-SUFFIX,johnzhou.top
